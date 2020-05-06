@@ -10,3 +10,6 @@
 [submodule "CPP2D"]
 	path = CPP2D
 	url = https://github.com/lhamot/CPP2D.git
+[submodule "c2go"]
+	path = c2go
+	url = https://github.com/elliotchance/c2go.git
