@@ -1,6 +1,6 @@
 # pyports
 
-Port C code to D-lang and Rust-lang.
+Port C code to D-lang and Rust-lang and (optionally) Go-lang.
 
 This should include git "submodules" with the master and latest release branch of CPython, c2rust and CPP2D repos;
 and 2 principal sub-directories:
