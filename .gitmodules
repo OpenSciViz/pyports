@@ -31,3 +31,6 @@
 [submodule "here-aws-sar"]
 	path = here-aws-sar
 	url = https://github.com/heremaps/here-aws-sar.git
+[submodule "rancher/k3s"]
+	path = rancher/k3s
+	url = https://github.com/rancher/k3s.git
